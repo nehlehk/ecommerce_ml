@@ -17,7 +17,7 @@ The dataset used is the **Brazilian E-Commerce Public Dataset by Olist** (Kaggle
 ---
 
 ## 📂 Project Structure
-
+```bash
 ecommerce_ml/
 │
 ├── ecommerce_ml/ # Main Python package
@@ -43,7 +43,7 @@ ecommerce_ml/
 ├── .gitignore
 ├── README.md
 └── requirements.txt (optional)
-
+```
 
 
 
